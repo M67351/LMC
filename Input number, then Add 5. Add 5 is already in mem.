@@ -1,1 +1,7 @@
-546661
+        INP
+        STA num1
+        ADD five
+        OUT
+        HLT
+num1    DAT
+five    DAT 5
